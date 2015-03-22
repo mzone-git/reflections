@@ -1,0 +1,18 @@
+it was faster
+more accurate
+manual commits more flexible
+git clone - make a copy of a repository (copies all versions to local directory)
+git log - show commit #, author, comments
+git diff - show changes between two commits
+git checkout - use a particular version of the code
+
+easy to revert changes if you introduce bugs into code
+git config --global push.default upstream
+git config --global merge.conflictstyle diff3
+
+create a new repository:
+    git init
+NOTE: will not create a commit
+
+display files changed since last commit:
+    git status
