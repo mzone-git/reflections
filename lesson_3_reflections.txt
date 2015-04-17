@@ -1,0 +1,1 @@
+remote repos are good as a central repo - for working in teams.
