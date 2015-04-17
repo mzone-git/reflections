@@ -16,3 +16,6 @@ NOTE: will not create a commit
 
 display files changed since last commit:
     git status
+
+re-sync to the most recently committed version:
+    git checkout master
